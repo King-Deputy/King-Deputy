@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+bioinfokit/__init__.py
+bioinfokit/analys.py
+bioinfokit/help.py
+bioinfokit/visuz.py
+bioinfokit.egg-info/PKG-INFO
+bioinfokit.egg-info/SOURCES.txt
+bioinfokit.egg-info/dependency_links.txt
+bioinfokit.egg-info/not-zip-safe
+bioinfokit.egg-info/requires.txt
+bioinfokit.egg-info/top_level.txt
