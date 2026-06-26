@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @King-Deputy
-- 👀 data analyst | data sciencist | Academic Writer
-- 🌱 R | Python | SQL 
-- 💞️ Upskilling
-- 📫 WhatsApp (+234-901-8210-827)
-- 
-<!---
-King-Deputy/King-Deputy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# **Hello!**
+## About me in an humble list
+- Statistician | Data Scientist | Academic Writer 
+- Founder @DataNation IAS
+
+## Other things
+- I like to collaborate on academic research and data science product!
+
+## Current Focus
+- Machine Learning Operations (MLops)
+- Large Language Model (LLM)
+- AI Agents
+  
