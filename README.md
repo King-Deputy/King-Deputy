@@ -1,6 +1,6 @@
 # **Hello!**
 ## About me in an humble list
-- Statistician | Data Scientist | Academic Writer 
+- Statistician | Data Scientist| Machine Learning Engineer | Academic Writer 
 - Founder @DataNation IAS
 
 ## Other things
